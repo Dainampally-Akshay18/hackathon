@@ -1,0 +1,52 @@
+Deal_ID,Borrower_Name,Loan_Amount,Maturity_Date,Status
+D001,ABC Pvt Ltd,12000000,2028-01-01,Active
+D002,Zenith Industries,5000000,2027-06-15,Active
+D003,Orion Manufacturing,7500000,2029-09-30,Inactive
+D004,BlueWave Traders Pvt Ltd,12000000,2030-03-31,Active
+D005,Greenfield Agro,6500000,2026-12-01,Active
+D006,Silverline Exports,9000000,2028-11-11,Active
+D007,Sunrise Logistics,11000000,2027-04-20,Inactive
+D008,Metro Constructions,15000000,2031-09-01,Active
+D009,Atlas Shipping,4000000,2026-05-05,Active
+D010,Prime Retailers,7200000,2029-02-14,Active
+D011,Horizon Textiles Pvt Ltd,8300000,2028-07-19,Active
+D012,Galaxy Motors,10000000,2030-10-10,Active
+D013,Nova Energy,18000000,2032-01-01,Active
+D014,Crystal Pharma Ltd,6000000,2027-09-09,Active
+D015,Urban Developers,20000000,2033-03-15,Active
+D016,Everest Foods,5400000,2026-11-11,Active
+D017,Royal Furniture,4700000,2027-01-25,Active
+D018,Delta Electronics,8800000,2028-12-12,Active
+D019,Omni Plastics Pvt Ltd,9100000,2029-04-04,Active
+D020,Pioneer Labs,7600000,2027-08-18,Active
+D021,Vertex Solutions,7000000,2028-05-22,Active
+D022,BluePeak Mining,14500000,2031-06-30,Active
+D023,SkyHigh Aviation,25000000,2035-09-09,Active
+D024,Golden Harvest,5300000,2026-10-10,Inactive
+D025,Matrix IT Services,9900000,2029-12-31,Active
+D026,Velocity Transport Pvt Ltd,8700000,2028-02-02,Active
+D027,Sapphire Jewels,6200000,2027-03-03,Active
+D028,RedStone Infrastructure,13000000,2031-01-15,Active
+D029,Elite Packaging,5600000,2026-07-07,Active
+D030,SunPower Systems,17500000,2032-08-20,Active
+D031,NextGen Robotics Pvt Ltd,21000000,2034-04-01,Active
+D032,Oceanic Traders,4800000,2026-06-06,Active
+D033,Alpha Logistics,10200000,2028-09-19,Active
+D034,Trinity Media Pvt Ltd,7300000,2027-11-11,Active
+D035,Heritage Handicrafts,3900000,2026-03-30,Active
+D036,FutureTech Labs,12500000,2030-05-05,Active
+D037,Global Cement Ltd,16000000,2032-12-12,Active
+D038,Sunrise Logistics Pvt Ltd,11000000,2027-04-20,Active
+D039,Metro Constructions,15000000,2031-08-08,Active
+D040,Atlas Shipping Pvt Ltd,4000000,2026-05-05,Active
+D041,Prime Retailers,7200000,2029-02-14,Active
+D042,Horizon Textiles,8300000,2028-07-19,Active
+D043,Galaxy Motors Pvt Ltd,9500000,2030-10-10,Active
+D044,Nova Energy,18000000,2032-01-01,Active
+D045,Crystal Pharma,6000000,2027-09-09,Active
+D046,Urban Developers Pvt Ltd,20000000,2033-03-15,Active
+D047,Everest Foods,5400000,2026-11-11,Active
+D048,Royal Furniture Pvt Ltd,4700000,2027-01-25,Active
+D049,Delta Electronics,8800000,2028-12-12,Active
+D050,Omni Plastics,9100000,2029-04-04,Active
+D051,Atlas Infrastructure,8500000,2029-06-06,Active
